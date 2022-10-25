@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=LED1 Pin=*-24
+Removed Pin From Net: NetName=LED2 Pin=*-25
+Removed Pin From Net: NetName=MAYBOM Pin=*-26
+Added Pin To Net: NetName=LED1 Pin=*-26
+Added Pin To Net: NetName=LED2 Pin=*-29
+Added Pin To Net: NetName=MAYBOM Pin=*-30
+Added Room: Name=Sheet2

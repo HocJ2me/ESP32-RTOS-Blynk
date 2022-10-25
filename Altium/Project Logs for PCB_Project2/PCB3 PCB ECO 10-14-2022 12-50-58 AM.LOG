@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=CD_OUT Pin=*-11
+Added Pin To Net: NetName=CD_OUT Pin=*-9
+Added Room: Name=Sheet2

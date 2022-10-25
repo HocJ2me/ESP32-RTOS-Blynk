@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=AS_OUT Pin=*-12
+Removed Pin From Net: NetName=GND Pin=*-17
+Added Pin To Net: NetName=AS_OUT Pin=*-13
+Added Room: Name=Sheet2

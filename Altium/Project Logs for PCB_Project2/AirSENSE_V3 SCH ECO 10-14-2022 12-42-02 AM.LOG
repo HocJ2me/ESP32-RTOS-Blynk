@@ -1,0 +1,30 @@
+Change Component Designator: Old Designator=3V3 New Designator=3
+Change Component Designator: Old Designator=5V New Designator=1
+Change Component Designator: Old Designator=9V-5V New Designator=2
+Change Component Designator: Old Designator=BME280 New Designator=BME1
+Change Component Designator: Old Designator=CN1 New Designator=CN2
+Change Component Designator: Old Designator=CN2 New Designator=CN3
+Change Component Designator: Old Designator=CN3 New Designator=CN1
+Change Component Designator: Old Designator=Cong tac New Designator=Cong tac1
+Change Component Designator: Old Designator=DCIN New Designator=DCIN1
+Change Component Designator: Old Designator=EDP32_2 New Designator=EDP1
+Change Component Designator: Old Designator=Encoder New Designator=Encoder1
+Change Component Designator: Old Designator=ESP32 New Designator=ESP1
+Change Component Designator: Old Designator=ESP32_1 New Designator=ESP2
+Change Component Designator: Old Designator=GND New Designator=GND1
+Change Component Designator: Old Designator=I2C1 New Designator=I1
+Change Component Designator: Old Designator=I2C2 New Designator=I2
+Change Component Designator: Old Designator=I2C3 New Designator=I3
+Change Component Designator: Old Designator=IC LM317 New Designator=IC LM1
+Change Component Designator: Old Designator=Pin New Designator=Pin1
+Change Component Designator: Old Designator=PMS7003 New Designator=PMS1
+Change Component Designator: Old Designator=R2 New Designator=R3
+Change Component Designator: Old Designator=R3 New Designator=R4
+Change Component Designator: Old Designator=R4 New Designator=R5
+Change Component Designator: Old Designator=R8 New Designator=R2
+Change Component Designator: Old Designator=RESET ESP New Designator=RESET ESP1
+Change Component Designator: Old Designator=RGB New Designator=RGB1
+Change Component Designator: Old Designator=RTC New Designator=RTC1
+Change Component Designator: Old Designator=SDcard New Designator=SDcard1
+Change Component Designator: Old Designator=SDS011 New Designator=SDS1
+Change Component Designator: Old Designator=TFT2.4'' New Designator=TFT1

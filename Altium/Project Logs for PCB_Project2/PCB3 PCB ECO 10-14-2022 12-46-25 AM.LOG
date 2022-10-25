@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=A0 Pin=ESP3-4
+Removed Pin From Net: NetName=CD_OUT Pin=ESP3-11
+Removed Pin From Net: NetName=AS_OUT Pin=ESP3-12
+Removed Pin From Net: NetName=DHT11 Pin=ESP3-13
+Removed Pin From Net: NetName=GND Pin=ESP3-14
+Removed Pin From Net: NetName=+5 Pin=ESP3-15
+Removed Pin From Net: NetName=+3.3 Pin=ESP3-16
+Removed Pin From Net: NetName=FAN Pin=ESP3-23
+Removed Pin From Net: NetName=LED1 Pin=ESP3-24
+Removed Pin From Net: NetName=LED2 Pin=ESP3-25
+Removed Pin From Net: NetName=MAYBOM Pin=ESP3-26
+Removed Member From Class: ClassName=Sheet2 Member=ESP3
+Added Component: Designator=*(ESP32 NODE MCU)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=A0 Pin=*-4
+Added Pin To Net: NetName=CD_OUT Pin=*-11
+Added Pin To Net: NetName=AS_OUT Pin=*-12
+Added Pin To Net: NetName=DHT11 Pin=*-13
+Added Pin To Net: NetName=GND Pin=*-14
+Added Pin To Net: NetName=+5 Pin=*-15
+Added Pin To Net: NetName=+3.3 Pin=*-16
+Added Pin To Net: NetName=FAN Pin=*-23
+Added Pin To Net: NetName=LED1 Pin=*-24
+Added Pin To Net: NetName=LED2 Pin=*-25
+Added Pin To Net: NetName=MAYBOM Pin=*-26
+Added Member To Class: ClassName=Sheet2 Member=Component * ESP32_Node_MCU

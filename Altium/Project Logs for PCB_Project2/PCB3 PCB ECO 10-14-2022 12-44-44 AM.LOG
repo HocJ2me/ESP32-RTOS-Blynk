@@ -1,0 +1,132 @@
+Added Component: Designator=ANH SANG1(CON3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Connector 3"; VariantName = "[No Variations]"
+Added Component: Designator=CHUYEN DONG1(CON3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Connector 3"; VariantName = "[No Variations]"
+Added Component: Designator=D4(D1A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1N4007"; VariantName = "[No Variations]"
+Added Component: Designator=DHT1(CON3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Connector 3"; VariantName = "[No Variations]"
+Added Component: Designator=DO AM DAT1(CON4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Connector 4"; VariantName = "[No Variations]"
+Added Component: Designator=ESP3(ESP32-WROOM-32)
+Add component. Clean all parameters for all variants
+Added Component: Designator=HD1(HED2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Added Component: Designator=JDC1(DC-IN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Jac DC"; VariantName = "[No Variations]"
+Added Component: Designator=LED1(CON2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Connector 2"; VariantName = "[No Variations]"
+Added Component: Designator=LED2(CON2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Connector 2"; VariantName = "[No Variations]"
+Added Component: Designator=LED3(LED-3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 ly Single Colour"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(QTO-92)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = "C2383"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "C1815"; VariantName = "[No Variations]"
+Added Component: Designator=QUAT1(CON2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Connector 2"; VariantName = "[No Variations]"
+Added Component: Designator=R6(R1/4W)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubClass"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330R"; VariantName = "[No Variations]"
+Added Component: Designator=R7(R1/4W)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubClass"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330R"; VariantName = "[No Variations]"
+Added Component: Designator=RL1(RL_SPDT_10A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = "Relay SPDT, 10A, 24V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Relay SPDT, 10A, 12V"; VariantName = "[No Variations]"
+Added Component: Designator=U1(DIP4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "PC817"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=AS_OUT Pin=ANH SANG1-1
+Added Pin To Net: NetName=GND Pin=ANH SANG1-2
+Added Pin To Net: NetName=+5 Pin=ANH SANG1-3
+Added Pin To Net: NetName=GND Pin=CHUYEN DONG1-1
+Added Pin To Net: NetName=CD_OUT Pin=CHUYEN DONG1-2
+Added Pin To Net: NetName=+5 Pin=CHUYEN DONG1-3
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=+5 Pin=D4-2
+Added Pin To Net: NetName=GND Pin=DHT1-1
+Added Pin To Net: NetName=DHT11 Pin=DHT1-2
+Added Pin To Net: NetName=+5 Pin=DHT1-3
+Added Pin To Net: NetName=A0 Pin=DO AM DAT1-1
+Added Pin To Net: NetName=GND Pin=DO AM DAT1-3
+Added Pin To Net: NetName=+5 Pin=DO AM DAT1-4
+Added Pin To Net: NetName=A0 Pin=ESP3-4
+Added Pin To Net: NetName=CD_OUT Pin=ESP3-11
+Added Pin To Net: NetName=AS_OUT Pin=ESP3-12
+Added Pin To Net: NetName=DHT11 Pin=ESP3-13
+Added Pin To Net: NetName=GND Pin=ESP3-14
+Added Pin To Net: NetName=+5 Pin=ESP3-15
+Added Pin To Net: NetName=+3.3 Pin=ESP3-16
+Added Pin To Net: NetName=FAN Pin=ESP3-23
+Added Pin To Net: NetName=LED1 Pin=ESP3-24
+Added Pin To Net: NetName=LED2 Pin=ESP3-25
+Added Pin To Net: NetName=MAYBOM Pin=ESP3-26
+Added Pin To Net: NetName=NetHD1_1 Pin=HD1-1
+Added Pin To Net: NetName=GND Pin=HD1-2
+Added Pin To Net: NetName=+5 Pin=JDC1-1
+Added Pin To Net: NetName=GND Pin=JDC1-2
+Added Pin To Net: NetName=LED1 Pin=LED1-1
+Added Pin To Net: NetName=+5 Pin=LED1-2
+Added Pin To Net: NetName=LED2 Pin=LED2-1
+Added Pin To Net: NetName=+5 Pin=LED2-2
+Added Pin To Net: NetName=NetLED3_1 Pin=LED3-1
+Added Pin To Net: NetName=GND Pin=LED3-2
+Added Pin To Net: NetName=GND Pin=Q1-1
+Added Pin To Net: NetName=NetD4_1 Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=QUAT Pin=QUAT1-1
+Added Pin To Net: NetName=+3.3 Pin=QUAT1-2
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=MAYBOM Pin=R6-2
+Added Pin To Net: NetName=NetQ1_3 Pin=R7-1
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Pin To Net: NetName=+5 Pin=RL1-1
+Added Pin To Net: NetName=NetHD1_1 Pin=RL1-3
+Added Pin To Net: NetName=NetD4_1 Pin=RL1-4
+Added Pin To Net: NetName=+5 Pin=RL1-5
+Added Pin To Net: NetName=NetR6_1 Pin=U1-1
+Added Pin To Net: NetName=NetLED3_1 Pin=U1-2
+Added Pin To Net: NetName=NetR7_2 Pin=U1-3
+Added Pin To Net: NetName=+5 Pin=U1-4
+Added Member To Class: ClassName=Sheet2 Member=Component ANH SANG1 JP3
+Added Member To Class: ClassName=Sheet2 Member=Component CHUYEN DONG1 JP3
+Added Member To Class: ClassName=Sheet2 Member=Component D4 1N4007
+Added Member To Class: ClassName=Sheet2 Member=Component DHT1 JP3
+Added Member To Class: ClassName=Sheet2 Member=Component DO AM DAT1 JP4
+Added Member To Class: ClassName=Sheet2 Member=Component ESP3 ESP32_Node_MCU
+Added Member To Class: ClassName=Sheet2 Member=Component HD1 Header 2
+Added Member To Class: ClassName=Sheet2 Member=Component JDC1 Jac DC
+Added Member To Class: ClassName=Sheet2 Member=Component LED1 JP2
+Added Member To Class: ClassName=Sheet2 Member=Component LED2 JP2
+Added Member To Class: ClassName=Sheet2 Member=Component LED3 LED
+Added Member To Class: ClassName=Sheet2 Member=Component Q1 C1815
+Added Member To Class: ClassName=Sheet2 Member=Component QUAT1 JP2
+Added Member To Class: ClassName=Sheet2 Member=Component R6 Res1
+Added Member To Class: ClassName=Sheet2 Member=Component R7 Res1
+Added Member To Class: ClassName=Sheet2 Member=Component RL1 Relay 10A/12V
+Added Member To Class: ClassName=Sheet2 Member=Component U1 PC817
+Added Room: Name=Sheet2
